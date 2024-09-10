@@ -5,8 +5,8 @@
  * Learn more about Gradle by exploring our Samples at https://docs.gradle.org/8.10/samples
  */
  plugins {
-    id 'com.android.application'
-    id 'kotlin-android'
+    id 'com.android.application';
+    id 'kotlin-android';
 }
 
 android {
